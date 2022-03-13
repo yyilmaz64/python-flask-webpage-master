@@ -1,0 +1,31 @@
+.head-text {
+    margin: 0;
+    font-size: 4rem;
+    color: #6C63FF;
+}
+.sub-text {
+    margin: 0;
+    font-size: 3rem;
+    color: #3f3d56;
+}
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+}
+svg {
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+    align-self: center;
+}
+.home-container {
+    width: 80%;
+    min-height: 80vh;
+    align-items: stretch;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
